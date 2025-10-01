@@ -1,0 +1,9 @@
+// WiFi Robot (ESP32-CAM + Arduino)
+// TODO: Add motor control code
+// TODO: Add camera streaming
+void setup() {
+  // WiFi setup here
+}
+void loop() {
+  // Motor control logic here
+}
